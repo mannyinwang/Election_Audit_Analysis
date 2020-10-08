@@ -53,4 +53,4 @@ This script can be used to analyze future elections by adding the following info
 * The Party of the Candidates
 * Votes that were not counted and reason why.
 
-The above data points can further give insights to why a particular candidate won or why the turnout in a particular county was significantly higher than other counties.
+The above data points can further give insights to why a particular candidate won, why the turnout in a particular county was significantly higher than other counties and why some votes were not counted. 
